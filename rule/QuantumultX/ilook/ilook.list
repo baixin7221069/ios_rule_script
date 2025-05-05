@@ -2,6 +2,7 @@
 HOST-SUFFIX,akciatv.ru,ilook
 HOST-SUFFIX,russtv.net,ilook
 HOST-SUFFIX,tv.zatikov.net,ilook
+HOST-SUFFIX,megogo.xyz,ilook
 HOST-KEYWORD,russtv,ilook
 IP-CIDR,194.59.155.0/24,ilook
 IP-CIDR,213.183.40.0/24,ilook
