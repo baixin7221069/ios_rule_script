@@ -1,0 +1,16 @@
+# NAME: JPvideo
+HOST-KEYWORD,abema,JPvideo
+HOST-SUFFIX,ameba.jp,JPvideo
+HOST-SUFFIX,abema.tv,JPvideo
+HOST-KEYWORD,abematv.akamaized.net,JPvideo
+HOST-SUFFIX,dmc.nico,JPvideo
+HOST-SUFFIX,nicovideo.jp,JPvideo
+HOST-SUFFIX,nimg.jp,JPvideo
+HOST-SUFFIX,youborafds01.com,JPvideo
+HOST-SUFFIX,hayabusa.io,JPvideo
+HOST-SUFFIX,growthpush.com,JPvideo
+HOST-SUFFIX,growthbeat.com,JPvideo
+HOST-SUFFIX,newrelic.com,JPvideo
+HOST-SUFFIX,nhk.jp,JPvideo
+HOST-SUFFIX,nhk.or.jp,JPvideo
+IP-CIDR,17.188.0.0/24,JPvideo
