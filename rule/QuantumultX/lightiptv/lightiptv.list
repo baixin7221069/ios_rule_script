@@ -1,0 +1,24 @@
+# NAME: lightiptv
+HOST-SUFFIX,pp.ru,lightiptv
+HOST-SUFFIX,ottbill.cc,lightiptv
+HOST-SUFFIX,tv.lightiptv.cc,lightiptv
+HOST-SUFFIX,satrip.net.ru,lightiptv
+HOST-SUFFIX,light.ga,lightiptv
+HOST-SUFFIX,light.ml,lightiptv
+HOST-SUFFIX,light.cf,lightiptv
+HOST-SUFFIX,light.qq,lightiptv
+HOST-SUFFIX,light.tk,lightiptv
+HOST-SUFFIX,s3.fr,lightiptv
+HOST-SUFFIX,s2.fr,lightiptv       
+IP-CIDR,104.21.234.0/24,lightiptv
+IP-CIDR,104.21.235.0/24,lightiptv
+IP-CIDR,104.21.95.0/24,lightiptv
+
+
+
+
+
+
+
+
+
