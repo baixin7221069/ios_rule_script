@@ -1,0 +1,27 @@
+# NAME: UKvideo
+HOST-SUFFIX,bbc.co.uk,UKvideo
+HOST-SUFFIX,bbci.co.uk,UKvideo
+HOST-KEYWORD,bbcfmt,UKvideo
+HOST-KEYWORD,uk-live,UKvideo
+HOST-SUFFIX,bbc.co,UKvideo
+HOST-SUFFIX,bbc.com,UKvideo
+HOST-SUFFIX,bbci.co,UKvideo
+HOST-SUFFIX,bbc.net.uk,UKvideo
+HOST-SUFFIX,bbcfmt.hs.llnwd.net,UKvideo
+HOST-SUFFIX,bbci.co.uk,UKvideo
+HOST-SUFFIX,bidi.net.uk,UKvideo
+HOST-SUFFIX,aod-dash-uk-live.akamaized.net,UKvideo
+HOST-SUFFIX,aod-hls-uk-live.akamaized.net,UKvideo
+HOST-SUFFIX,vod-dash-uk-live.akamaized.net,UKvideo
+HOST-SUFFIX,vod-thumb-uk-live.akamaized.net,UKvideo
+HOST-SUFFIX,a753.w10.akamai.net,UKvideo
+HOST-KEYWORD,uk-live,UKvideo
+HOST-SUFFIX,itv.com,UKvideo
+HOST-SUFFIX,yospace.com,UKvideo
+HOST-SUFFIX,itvstatic.com,UKvideo
+HOST-SUFFIX,itv-hub.cdn-v3.conductrics.com,UKvideo
+HOST-SUFFIX,c.contentsquare.net,UKvideo
+HOST-SUFFIX,itvpnp.live.ott.irdeto.com,UKvideo
+HOST-SUFFIX,itvdotcom.2cnt.net,UKvideo
+HOST-SUFFIX,c4assets.com,UKvideo
+HOST-SUFFIX,channel4.com,UKvideo
