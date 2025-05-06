@@ -1,4 +1,8 @@
 # NAME: TWMedia
+HOST,hls-hichannel.cdn.hinet.net,TWMedia
+HOST-SUFFIX,hamivideo.hinet.net,TWMedia
+HOST-SUFFIX,ott.hinet.net,TWMedia
+HOST-KEYWORD,hamivideo.cdn.hinet.net,TWMedia
 HOST,gamer-cds.cdn.hinet.net,TWMedia
 HOST,gamer2-cds.cdn.hinet.net,TWMedia
 HOST-SUFFIX,bahamut.com.tw,TWMedia
