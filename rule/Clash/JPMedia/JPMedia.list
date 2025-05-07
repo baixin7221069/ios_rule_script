@@ -1,0 +1,16 @@
+# NAME: JPMedia
+DOMAIN-KEYWORD,abema,JPMedia
+DOMAIN-SUFFIX,ameba.jp,JPMedia
+DOMAIN-SUFFIX,abema.tv,JPMedia
+DOMAIN-KEYWORD,abematv.akamaized.net,JPMedia
+DOMAIN-SUFFIX,dmc.nico,JPMedia
+DOMAIN-SUFFIX,nicovideo.jp,JPMedia
+DOMAIN-SUFFIX,nimg.jp,JPMedia
+DOMAIN-SUFFIX,youborafds01.com,JPMedia
+DOMAIN-SUFFIX,hayabusa.io,JPMedia
+DOMAIN-SUFFIX,growthpush.com,JPMedia
+DOMAIN-SUFFIX,growthbeat.com,JPMedia
+DOMAIN-SUFFIX,newrelic.com,JPMedia
+DOMAIN-SUFFIX,nhk.jp,JPMedia
+DOMAIN-SUFFIX,nhk.or.jp,JPMedia
+IP-CIDR,17.188.0.0/24,JPMedia,no-resolve
