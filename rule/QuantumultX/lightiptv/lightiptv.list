@@ -11,6 +11,7 @@ HOST-SUFFIX,light.tk,lightiptv
 HOST-SUFFIX,s6.cf.net.ru,lightiptv
 HOST-SUFFIX,s5.cf.org.ru,lightiptv
 HOST-SUFFIX,s3.fr,lightiptv
+HOST-SUFFIX,s3.cf.org.ru,lightiptv
 HOST-SUFFIX,s2.fr,lightiptv       
 IP-CIDR,104.21.234.0/24,lightiptv
 IP-CIDR,104.21.235.0/24,lightiptv
